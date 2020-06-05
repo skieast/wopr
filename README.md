@@ -16,6 +16,8 @@ Build and showcase video
 
 This repository has the final code for your W.O.P.R. kit. It's written specifically for an ESP32, though not specifically for the TinyPICO, but the kit is designed to have a TinyPICO and Audio Shield plug directly into it.  
 
+To flash the code onto your board, you'll need to have the  Arduino IDE installed and the ESP32 board files installed from the Arduino Board Manager.
+
 
 # Where can I get one?
 
